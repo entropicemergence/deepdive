@@ -1,0 +1,1 @@
+My effort to  create a deep learning library focused on educating the fundamental workings of neural networks. Currently based on cupy.
